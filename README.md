@@ -1,2 +1,2 @@
-# Top-Recipes
+# Odin-Recipes
 Project for TOP called "Recipes"
